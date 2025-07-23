@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🌩️ Cloud Architecture Lab
 
