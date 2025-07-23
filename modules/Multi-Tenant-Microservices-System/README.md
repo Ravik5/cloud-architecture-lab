@@ -47,9 +47,6 @@ Maintained by **Ravi Ranjan Kumar** – Principal Engineer | Platform Architect 
 ## 🛠️ Contributions
 Feel free to fork, use, or suggest improvements via pull requests. Let's build better systems together!
 
-=======
-Here is a concise and informative `README.md` for your public Spring Boot multi-tenant project. It covers project overview, setup, usage, and contribution guidelines.
-
 ---
 
 # Multi-Tenant Spring Boot Application
