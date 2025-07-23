@@ -125,6 +125,3 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 This project is licensed under the MIT License.
 
 ---
-
-Replace `your-username` with your GitHub username in the clone URL.
->>>>>>> a7ee6a3 (Add initial Spring Boot multi-tenant platform project)
